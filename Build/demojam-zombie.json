@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"companyName": "RedHat ",
+"productName": "Demo Jam",
 "dataUrl": "demojam-zombie.data.unityweb",
 "wasmCodeUrl": "demojam-zombie.wasm.code.unityweb",
 "wasmFrameworkUrl": "demojam-zombie.wasm.framework.unityweb",
